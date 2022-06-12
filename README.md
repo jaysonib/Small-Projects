@@ -1,4 +1,4 @@
 # Small-Projects
 
-@author
-@jaysonib
+## Author
+@[Jay B Soni](https://github.com/jaysonib)
